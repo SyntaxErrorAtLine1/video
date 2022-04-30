@@ -1,0 +1,13 @@
+{
+  "name": "Video Upload",
+  "description": "This app does one little thing, and does it well.",
+  "keywords": [
+    "productivity",
+    "HTML5",
+    "scalpel"
+  "env": {
+   "PORT":"80",
+   "FILE_UPLOAD_PATH": "uploads/"
+   "FILE_SIZE": "1000",
+    }
+  },
